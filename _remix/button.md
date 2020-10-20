@@ -16,3 +16,6 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="naskosathanasios" data-slug-hash="zYBBKOe" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="zYBBKOe">
+  <span>See the Pen <a href="https://codepen.io/naskosathanasios/pen/zYBBKOe">
+  zYBBKOe</a> by 2019184 (<a href="https://codepen.io/naskosathanasios">@naskosathanasios</a>)
